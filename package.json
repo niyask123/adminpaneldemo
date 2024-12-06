@@ -9,9 +9,6 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "engines": {
-    "node": ">=16"
-  },
   "dependencies": {
     "flowbite": "^2.5.2",
     "flowbite-react": "^0.10.2",
